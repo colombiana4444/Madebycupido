@@ -1,0 +1,144 @@
+body{
+    color:#fad2e8;
+    background: #b22739;
+    margin: 0px;
+    font-family: "Dancing Script", cursive;
+    margin-bottom: 200px;
+}
+
+
+header {
+    border-bottom: solid 2px #f7e2f2;
+    padding-left: 80px;
+    font-size: 70px;
+    color: #f7e2f2;
+}
+
+ .chamada {
+    background:#fad2e8;
+    padding-bottom: 2px;
+    padding-top: 50px;
+    display: flex;
+    justify-content:center;
+    font-size: 35px;
+  
+    
+}
+
+
+  .texto{
+    margin-right: 5%;
+    margin-left: 5%;
+    color: #c91a3d;
+  }
+
+
+.foto{
+
+    border-radius: 5%;
+    margin-left: 5%;
+}
+
+
+.categoria-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+.categoria {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 46px;
+}
+
+
+ .categoria-videos img {
+    opacity: 0.6;
+    height: 200px;
+}
+
+.categoria-videos img:hover {
+    opacity: 1.0;
+    border: 5px solid darkred;
+}
+
+.categoria h2 {
+    color: rgb(255, 72, 72);
+    font-size: 27px;
+}
+
+
+
+
+
+
+
+.categoria-videos-dois {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+.categoria-dois {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 46px;
+}
+
+
+ .categoria-videos-dois img {
+    opacity: 0.6;
+    height: 200px;
+}
+
+.categoria-videos-dois img:hover {
+    opacity: 1.0;
+    border: 5px solid rgb(211, 171, 86);
+}
+
+.categoria-dois h2 {
+    color: rgb(235, 202, 130);
+    font-size: 27px;
+}
+
+
+
+
+
+
+
+
+.categoria-videos-tres {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+.categoria-tres{
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 46px;
+}
+
+
+ .categoria-videos-tres img {
+    opacity: 0.6;
+    height: 200px;
+}
+
+.categoria-videos-tres img:hover {
+    opacity: 1.0;
+    border: 5px solid rgb(218, 129, 129);
+}
+
+.categoria-tres h2 {
+    color: rgb(255, 221, 221);
+    font-size: 27px;
+}
+
+
+
+
+
+
